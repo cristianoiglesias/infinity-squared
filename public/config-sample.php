@@ -6,7 +6,7 @@
 
 // GENERAL SETTINGS
 ISQ::$general = array(
-	'name' => 'URL shortener', // The name of your URL shortener
+	'name' => 'mnto.co', // The name of your URL shortener
 	'qr' => TRUE, // Do you want to display a QR code?
 	'customstyle' => TRUE // Do you want to enable the custom stylesheet, found in public/custom.css?
 );
@@ -19,8 +19,8 @@ ISQ::$links = array(
 		'link' => YOURLS_SITE
 	),
 	array(
-		'name' => 'Tom Slominski',
-		'link' => 'http://tomslominski.net/'
+		'name' => 'Minuto do Codigo',
+		'link' => 'http://minutodocodigo.com/'
 	),
 	array(
 		'name' => yourls__( 'Get ∞²!', 'isq_translation' ),
